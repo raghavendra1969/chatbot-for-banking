@@ -1,4 +1,4 @@
-
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5YndnZjk1ZDcydGF1cWhkNTJuYjNpcWI3bzB6MDZvZGdlc29sayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif
 # 🏦 AI Banking Chatbot with Voice Support (MongoDB-ready)
 
 An AI-powered chatbot built for banking websites. This assistant responds to banking-related queries such as loans, Aadhaar linking, credit cards, mobile banking, pensions, and more. It supports both voice and text input/output, with a clean user interface and machine learning-based intent classification.

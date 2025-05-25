@@ -1,8 +1,7 @@
 
 # 🏦 AI Banking Chatbot with Voice Support (MongoDB-ready)
 
-An AI-powered chatbot built for![Uploading Code Hacking GIF by Pizza Ninjas.gif…]()
- banking websites. This assistant responds to banking-related queries such as loans, Aadhaar linking, credit cards, mobile banking, pensions, and more. It supports both voice and text input/output, with a clean user interface and machine learning-based intent classification.
+An AI-powered chatbot built for banking websites. This assistant responds to banking-related queries such as loans, Aadhaar linking, credit cards, mobile banking, pensions, and more. It supports both voice and text input/output, with a clean user interface and machine learning-based intent classification.
 
 > **Note:** MongoDB database connection is **prepared but not yet integrated**.
 

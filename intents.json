@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "tag": "account_balance",
+      "patterns": ["What is my account balance?", "Check balance", "Show my balance"],
+      "responses": ["You can check your balance through net banking or by visiting an ATM."]
+    },
+    {
+      "tag": "open_account",
+      "patterns": ["I want to open an account", "How to open a new account?", "New account opening process"],
+      "responses": ["You can open a new account online or by visiting your nearest branch."]
+    },
+    {
+      "tag": "loan_info",
+      "patterns": ["Tell me about personal loans", "Loan interest rate", "Can I apply for a loan?"],
+      "responses": ["We offer personal loans with interest rates starting at 11%. Would you like help with applying?"]
+    },
+    {
+      "tag": "atm_help",
+      "patterns": ["ATM not working", "I lost my ATM card", "Block my debit card"],
+      "responses": ["Please call our 24x7 helpline or block your card via our mobile app."]
+    },
+    {
+      "tag": "net_banking",
+      "patterns": ["How to activate net banking?", "Start net banking", "Enable online banking"],
+      "responses": ["You can activate net banking by using your registered mobile number and visiting our portal."]
+    },
+    {
+      "tag": "branch_hours",
+      "patterns": ["What are your working hours?", "When does the bank open?", "Bank timing"],
+      "responses": ["Our branch hours are from 9 AM to 4 PM, Monday to Friday."]
+    }
+  ]
+}
+
